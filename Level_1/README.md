@@ -1,24 +1,17 @@
 # Assignment 1 – Level 1: Profile Card
 
-## 📌 Project Overview
-
-This project focuses on designing a **simple and clean profile card** using HTML and CSS.  
-The profile card displays a user’s photo, basic information, and social media links, while maintaining proper alignment, spacing, and typography.
-
-The main goal is to understand **HTML structure**, **CSS styling**, and **Flexbox layout fundamentals**.
-
 ---
 
-## 🎯 Task Requirements
+## Task
 
-The profile card includes:
+Design a profile card containing:
 - Profile photo
-- Name, designation, and short bio
+- Name, designation & short bio
 - Social media icon buttons
 
 ---
 
-## 🎨 Design Focus Areas
+## Focus Areas in Design
 
 - Center alignment (horizontal and vertical)
 - Proper spacing and padding
@@ -27,18 +20,15 @@ The profile card includes:
 
 ---
 
-## 🧠 What Developers Will Learn
+## What Developers Will Learn
 
-- Structuring cards using HTML
-- CSS Flexbox for layout and alignment
-- Managing spacing with padding and gap
-- Applying typography hierarchy
-- Creating responsive layouts
-- Adding hover effects for better UI interaction
+- HTML structure for cards
+- CSS Flexbox basics
+- Applying consistent spacing and typography
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Structure of the profile card  
 - **CSS3** – Styling, layout, and responsiveness  
@@ -47,7 +37,7 @@ The profile card includes:
 
 ---
 
-## 🧩 Steps Followed to Build the Project
+## Steps Followed to Build the Project
 
 ### 1. HTML Structure
 - Created a main container to center the card.
@@ -87,7 +77,7 @@ The profile card includes:
 
 ---
 
-## 🔑 Key Concepts Used
+## Key Concepts Used
 
 - HTML card layout structure
 - CSS Flexbox (column layout and centering)
@@ -97,7 +87,7 @@ The profile card includes:
 
 ---
 
-## ✅ Assignment Outcome
+## Assignment Outcome
 
 - Clean and centered profile card layout
 - Proper spacing and alignment
@@ -107,9 +97,8 @@ The profile card includes:
 
 ---
 
-## ✍️ Author
+## Author
 
 **Atharv Punekar**  
-Software Engineer Intern at Josh Software
 
 ---
