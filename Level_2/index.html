@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment 2 - Pricing Card Grid</title>
+
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="page-wrapper">
+        <header class="page-header">
+            <h1>Pricing Plans</h1>
+            <p>Choose the plan that fits your needs.</p>
+        </header>
+
+        <main>
+            <section class="pricing-grid" aria-label="Pricing Plans">
+                <!-- Free Plan -->
+                <article class="pricing-card">
+                    <h2 class="plan-title">Free</h2>
+                    <p class="plan-price">$0<span>/mo</span></p>
+                    <ul class="plan-features">
+                        <li>1 Project</li>
+                        <li>Basic Support</li>
+                        <li>Community Access</li>
+                    </ul>
+                    <button class="btn btn-outline" type="button">Get Started</button>
+                </article>
+
+                <!-- Recommended Pro Plan -->
+                <article class="pricing-card recommended" aria-label="Recommended Plan">
+                    <div class="badge">Recommended</div>
+                    <h2 class="plan-title">Pro</h2>
+                    <p class="plan-price">$19<span>/mo</span></p>
+                    <ul class="plan-features">
+                        <li>Unlimited Projects</li>
+                        <li>Priority Support</li>
+                        <li>Advanced Analytics</li>
+                    </ul>
+                    <button class="btn btn-primary" type="button">Get Started</button>
+                </article>
+
+                <!-- Enterprise Plan -->
+                <article class="pricing-card">
+                    <h2 class="plan-title">Enterprise</h2>
+                    <p class="plan-price">Custom</p>
+                    <ul class="plan-features">
+                        <li>Dedicated Manager</li>
+                        <li>Custom Integrations</li>
+                        <li>24/7 Support</li>
+                    </ul>
+                    <button class="btn btn-outline" type="button">Contact Sales</button>
+                </article>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
