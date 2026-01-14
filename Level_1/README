@@ -1,0 +1,87 @@
+Assignment 1 Level 1: Profile Card
+Task:
+
+Design a profile card containing:
+● Profile photo
+● Name, designation & short bio
+● Social media icon buttons
+
+Focus Areas in Design:
+● Center alignment
+● Basic spacing and padding
+● Font hierarchy (name vs. bio)
+● Consistent icon button sizing
+
+What Developers Will Learn:
+● HTML structure for cards
+● CSS Flexbox basics
+● Applying consistent spacing and typography
+
+=>
+
+🛠️ Technologies Used
+
+HTML5 – Structure of the profile card
+CSS3 – Styling, layout, and responsiveness
+Flexbox – Center alignment and spacing
+Font Awesome – Social media icons
+
+🧩 Steps Followed to Build the Project
+
+1. HTML Structure
+Created a main container to center the card.
+Divided the card into three sections:
+Profile photo
+Profile information
+Social media links
+
+2. Center Alignment Using Flexbox
+Used Flexbox on the body to center the card both horizontally and vertically.
+Used Flexbox inside the card to align elements in a column.
+display: flex;
+justify-content: center;
+align-items: center;
+
+3. Profile Photo Styling
+Used a circular image with border-radius: 50%.
+Applied object-fit: cover to maintain image aspect ratio.
+Added border and shadow for visual emphasis.
+
+4. Font Hierarchy
+Name: larger font size and bold weight.
+Designation: medium size with accent color.
+Bio: smaller font size with lighter color and increased line height.
+This improves readability and visual hierarchy.
+
+5. Spacing and Padding
+Used consistent padding inside the card.
+Used gap property in Flexbox to maintain even spacing between elements.
+Limited bio width to maintain clean text layout.
+
+6. Social Media Icons
+Used Font Awesome icons inside anchor (<a>) tags.
+Ensured all icons have the same size and circular shape.
+Added hover effects for better user interaction.
+
+7. Responsive Design
+Added a media query for smaller screens.
+Reduced image size, font size, and icon size on mobile devices.
+@media (max-width: 480px) {
+  /* responsive adjustments */
+}
+
+🔑 Key Concepts Used
+
+HTML card layout structure
+CSS Flexbox (column layout, center alignment)
+Consistent spacing using padding and gap
+Hover effects and transitions
+Responsive design with media queries
+
+✅ Assignment Outcome
+
+Clean and centered profile card layout
+Proper spacing and alignment
+Clear text hierarchy
+Consistent and interactive social media icons
+Fully responsive design
