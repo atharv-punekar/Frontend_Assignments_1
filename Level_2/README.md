@@ -7,7 +7,7 @@ Create a responsive pricing grid with:
 - Plan titles (e.g., Free, Pro, Enterprise)
 - Features
 - Highlighted "Recommended" plan
-- CTA buttons (e.g., “Get Started”)
+- CTA buttons (e.g., “Get Started”) 
 
 ---
 
