@@ -11,7 +11,7 @@ Create a responsive pricing grid with:
 
 ---
 
-## Focus Areas in Design:
+## Focus Areas in Design
 
 - Reusable card styles
 - Equal height columns
