@@ -109,7 +109,7 @@ The profile card includes:
 
 ## ✍️ Author
 
-**Atharv Jayant Punekar**  
+**Atharv Punekar**  
 Software Engineer at Josh Software
 
 ---
