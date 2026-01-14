@@ -1,7 +1,7 @@
 # Assignment 3: Sign Up Page Layout
 
 ## Task
-
+ 
 Build a clean, responsive **Sign Up Page** with modern UI design and illustration containing:
 - Left column with background color and image/illustration
 - Form fields (text, email, and password)
