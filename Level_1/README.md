@@ -110,6 +110,6 @@ The profile card includes:
 ## ✍️ Author
 
 **Atharv Punekar**  
-Software Engineer at Josh Software
+Software Engineer Intern at Josh Software
 
 ---
