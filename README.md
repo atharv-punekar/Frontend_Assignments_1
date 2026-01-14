@@ -1,1 +1,1 @@
-## Frontend - Day 1 Assignment 1 
+# FRONTEND DAY 1 ASSIGNMENTS
