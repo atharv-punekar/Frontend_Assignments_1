@@ -1,4 +1,4 @@
-# Assignment 1 – Level 1: Profile Card
+# Assignment 1 – Level 1: Profile Card 
 
 ---
 
